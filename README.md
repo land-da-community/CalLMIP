@@ -1,9 +1,3 @@
-# Virtual Workshop Dates
-The workshop will consist of three sessions, each lasting 1.5 hours. To accommodate participants across different time zones, we are offering two time options per session: one for the eastern US/EU time zones and one for the Western US/Australia/Asia time zones.
-- Session 1: Thursday, March 6 at 8:00-9:30 pm EST OR Friday, March 7 at 10:00-11:30 am EST 
-- Session 2: Wednesday, March 19 at 10:00-11:30 am EDT OR Wednesday, March 19 at 8:00-9:30 pm EDT 
-- Session 3: Tuesday, April 1st at 10:00-11:30 am EDT OR Tuesday, April 1st at 8:00-9:30 pm EDT 
-
 # Workshop Overview
 CalLMIP is a new initiative led by members of the Analysis and Integration of Modeling Earth Systems (AIMES) Land Data Assimilation Working Group and the International Land Modeling Forum (ILMF) Parameter Estimation Working Group.
 
@@ -13,6 +7,12 @@ The overall goals envisaged for CalLMIP are:
 - To quantify the reduction in inter-model spread as a result of parameter calibration for a wide range of variables (e.g., carbon and water stores and fluxes, aboveground biomass, soilC etc).
 - To encourage the use of uncertainty quantification methods for constraining parameter uncertainty in global land models.
 - To better understand and exchange knowledge on the variety of methods being used in global land model parameter calibration in order to identify best practices.
+
+# Virtual Workshop Dates
+The workshop will consist of three sessions, each lasting 1.5 hours. To accommodate participants across different time zones, we are offering two time options per session: one for the eastern US/EU time zones and one for the Western US/Australia/Asia time zones.
+- Session 1: Thursday, March 6 at 8:00-9:30 pm EST OR Friday, March 7 at 10:00-11:30 am EST 
+- Session 2: Wednesday, March 19 at 10:00-11:30 am EDT OR Wednesday, March 19 at 8:00-9:30 pm EDT 
+- Session 3: Tuesday, April 1st at 10:00-11:30 am EDT OR Tuesday, April 1st at 8:00-9:30 pm EDT 
 
 # Workshop Goals
 - Discuss the goals of the 1st stage of CalLMIP
